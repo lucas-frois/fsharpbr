@@ -1,4 +1,5 @@
 # fsharpbr
+## [Grupo no Telegram](https://t.me/fsharpbr)
 
 ## Material para aprender F#
 
