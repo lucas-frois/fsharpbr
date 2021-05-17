@@ -7,6 +7,7 @@
 
 ### Teoria
 - [fsharpforfunandprofit](http://fsharpforfunandprofit.com/)
+- [Gitbook: fsharpforfunandprofit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 - [Documentação](https://docs.microsoft.com/en-us/dotnet/fsharp/)
 
 ### Prática
