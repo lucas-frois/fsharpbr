@@ -15,6 +15,7 @@
 ### Livros
 - Domain Modeling Made Functional (Scott Wlaschin)
 - Programação funcional em .NET (Gabriel Schade Cardoso)
+- F# Applied - A Practical Guide For Web Development In F# Using Suave (Tamizhvendan S)
 
 ### Palestras
 - [F# for C# programmers - Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
