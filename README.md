@@ -12,6 +12,7 @@
 
 ### Prática
 - [Exercism: trilha de F#](https://exercism.io/my/tracks/fsharp)
+- [FSharpKoans: aprenda F# com testes](https://github.com/ChrisMarinos/FSharpKoans)
 
 ### Livros
 - Domain Modeling Made Functional (Scott Wlaschin)
