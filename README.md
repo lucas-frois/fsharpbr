@@ -9,6 +9,7 @@
 - [fsharpforfunandprofit](http://fsharpforfunandprofit.com/)
 - [Gitbook: fsharpforfunandprofit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 - [Documentação](https://docs.microsoft.com/en-us/dotnet/fsharp/)
+- [Dicas](https://twitter.com/search?q=%40lucasteles42%20%23fsharp&src=typed_query)
 
 ### Prática
 - [Exercism: trilha de F#](https://exercism.io/my/tracks/fsharp)
