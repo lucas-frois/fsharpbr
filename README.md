@@ -36,4 +36,4 @@
 
 ## Listas de Links
 
--[Awesome F# em Português](https://github.com/adelarsq/awesome-fsharp-pt)
+- [Awesome F# em Português](https://github.com/adelarsq/awesome-fsharp-pt)
