@@ -33,3 +33,7 @@
 - [Lambda3 Podcast 220 – Programação Funcional Parte 2 – Functors e Monads](https://www.lambda3.com.br/2020/11/lambda3-podcast-220-functors-e-monads/)
 - [Lambda3 Podcast 236 – Programação Funcional Parte 3 – Railway Oriented Programming](https://www.lambda3.com.br/2021/02/lambda3-podcast-236-programacao-funcional-parte-3-railway-oriented-programming/)
 - [Functions, Mônadas e Programação Funcional – Hipsters #190](https://hipsters.tech/functions-monadas-e-programacao-funcional-hipsters-190/)
+
+## Listas de Links
+
+-[Awesome F# em Português](https://github.com/adelarsq/awesome-fsharp-pt)
