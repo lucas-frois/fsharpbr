@@ -1,10 +1,8 @@
 # fsharpbr
-<p align="center">
-<h2>
+<h2 align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="3%" />
 <a href="https://t.me/fsharpbr">Grupo no Telegram</a>
 </h2>
-</p>
 
 <hr>
 
