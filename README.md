@@ -4,8 +4,6 @@
 <a href="https://t.me/fsharpbr">Grupo no Telegram</a>
 </h2>
 
-<hr>
-
 ## Material para aprender F#
 
 ### [IDE online](https://sharplab.io/#v2:DYLgZgzgNALiBOBXAdlAJiA1AHwA7wEtkYxkACAIkB4NwEH2Kg==)
