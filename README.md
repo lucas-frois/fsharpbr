@@ -16,7 +16,6 @@
 | [fsharpforfunandprofit](http://fsharpforfunandprofit.com/) | 🇺🇸 | 
 | [Gitbook: fsharpforfunandprofit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | 🇺🇸 | 
 | [Documentação](https://docs.microsoft.com/en-us/dotnet/fsharp/) | 🇺🇸 | 
-| [Documentação](https://docs.microsoft.com/en-us/dotnet/fsharp/) | 🇺🇸 | 
 | [F# From the Ground Up](https://www.udemy.com/course/fsharp-from-the-ground-up/) | 🇺🇸 | 
 | [.NET F# Blog](https://devblogs.microsoft.com/dotnet/tag/f/) | 🇺🇸 |
 
