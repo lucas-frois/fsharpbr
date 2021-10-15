@@ -8,6 +8,11 @@
 
 ### [IDE online](https://sharplab.io/#v2:DYLgZgzgNALiBOBXAdlAJiA1AHwA7wEtkYxkACAIkB4NwEH2Kg==)
 
+### Cheat Sheets
+| Nome  | Idioma | 
+|:--    |:--:    |
+| [An updated cheat sheet for F#](https://github.com/adelarsq/fsharp-cheatsheet) | 🇺🇸 | 
+
 ### Teoria
 | Nome  | Idioma | 
 |:--    |:--:    |
