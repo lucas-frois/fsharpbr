@@ -19,7 +19,6 @@
 | [Dicas](https://twitter.com/search?q=%40lucasteles42%20%23fsharp&src=typed_query) | 🇧🇷 | 
 | [Blog do Gabriel Schade](https://gabrielschade.github.io/posts-categoria/fsharp) | 🇧🇷 | 
 | [fsharpforfunandprofit](http://fsharpforfunandprofit.com/) | 🇺🇸 | 
-| [Gitbook: fsharpforfunandprofit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | 🇺🇸 | 
 | [Documentação](https://docs.microsoft.com/en-us/dotnet/fsharp/) | 🇺🇸 | 
 | [F# From the Ground Up](https://www.udemy.com/course/fsharp-from-the-ground-up/) | 🇺🇸 | 
 | [.NET F# Blog](https://devblogs.microsoft.com/dotnet/tag/f/) | 🇺🇸 |
@@ -38,7 +37,11 @@
 |:--    |:--:    | :--:  | 
 | Programação funcional em .NET | [Gabriel Schade Cardoso](https://github.com/gabrielschade) | 🇧🇷 | 
 | Domain Modeling Made Functional | [Scott Wlaschin](https://github.com/swlaschin) | 🇺🇸 | 
-| F# Applied - A Practical Guide For Web Development In F# Using Suave | [Tamizhvendan S](https://github.com/tamizhvendan) | 🇺🇸 | 
+| [F# Applied - A Practical Guide For Web Development In F# Using Suave](https://www.demystifyfp.com/FsApplied/) | [Tamizhvendan S](https://github.com/tamizhvendan) | 🇺🇸 | 
+| [F# Applied II - A Practical Guide For Web Development In F# Using Suave](https://www.demystifyfp.com/FsApplied2/) | [Tamizhvendan S](https://github.com/tamizhvendan) | 🇺🇸 | 
+| [Essential F#](https://leanpub.com/essential-fsharp) | [Ian Russell](https://ijrussell.github.io/) | us |
+| [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) | [Scott Wlaschin](https://fsharpforfunandprofit.com/) | us
+| Expert F# 4.0 | [Adam Granicz](https://intellifactory.com/) | us
 
 ### Palestras
 | Nome  | Palestrante | Idioma | 
